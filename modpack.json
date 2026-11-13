@@ -1,0 +1,18 @@
+{
+  "name": "Helios SMP",
+  "instanceId": "helios-smp",
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.248",
+  "ram": 5,
+  "server": { "host": "impairment-poetry.tun.ply.gg", "port": 25565 },
+  "packages": [
+    {
+      "version": 1,
+      "type": "full",
+      "url": "https://github.com/TU_USUARIO/TU_REPO/releases/download/pack-v1/helios-pack-v1.zip",
+      "size": 1395864371,
+      "sha256": "PEGAR_AQUI_EL_SHA256"
+    }
+  ]
+}
